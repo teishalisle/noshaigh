@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oichieroob.xn--aptekamariaska-loc.pl/sitemap.xml
